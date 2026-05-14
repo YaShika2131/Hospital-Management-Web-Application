@@ -1,6 +1,6 @@
 # Hospital Management System (HMS)
 
-A comprehensive web application for managing hospitals, patients, doctors, appointments, and treatments. Built for SIH (Smart India Hackathon) 2025.
+A comprehensive web application for managing hospitals, patients, doctors, appointments, and treatments. 
 
 ## Tech Stack
 
