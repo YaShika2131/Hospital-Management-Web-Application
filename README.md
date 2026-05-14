@@ -294,16 +294,4 @@ Redis caching is implemented for:
 ✅ Treatment management
 ✅ CSV export
 
-## Screenshots
 
-The application includes:
-- Modern, responsive dashboard for each role
-- Card-based statistics display
-- Table views with search and filters
-- Modal forms for data entry
-- Toast notifications for feedback
-- Bootstrap 5 styling
-
-## License
-
-This project is developed for SIH (Smart India Hackathon) 2025.
